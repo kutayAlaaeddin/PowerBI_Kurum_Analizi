@@ -34,8 +34,4 @@ Betik aynı rastgelelik tohumu ile CSV dosyalarını ve bunların Power Query i�
 
 Pusula, Prizma, Yörünge ve Açık Ağ sentetik sözleşme programlarıdır. Grafiklerdeki dağılımlar üretilen işlem kayıtlarından hesaplanır.
 
-275 ölçünün 123 tanesi rapor tanımlarında doğrudan kullanılır. 59 ölçüye model ifadeleri, sorgular veya ölçü bağımlılıkları üzerinden ulaşılır. Kalan 93 ölçü **Rapor dışında kalanlar** klasöründe konusuna göre gruplandırılmıştır. Bu ayrım proje dosyalarındaki başvurulara dayanır.
-
-## İletişim
-
-Kutay Alaaddin · [k.alaaeddin@outlook.com](mailto:k.alaaeddin@outlook.com)
+275 ölçünün 123 tanesi rapor tanımlarında doğrudan kullanılır. 59 ölçüye model ifadeleri, sorgular veya ölçü bağımlılıkları üzerinden ulaşılır. Kalan 93 ölçü, ilerideki analizlerde kullanılmak üzere **Rapor dışında kalanlar** klasöründe konularına göre gruplandırılmıştır. Bu ayrım proje dosyalarındaki başvurulara dayanır.
