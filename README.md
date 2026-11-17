@@ -22,7 +22,7 @@ Beş kurgusal hastane, 32 ödeyici ve altı klinik bölüm için 8.522 örnek pr
 
 ## Veriyi yeniden üretme
 
-`data/` klasöründe 11 tablonun okunabilir UTF-8 CSV dosyaları bulunur. Tarih boyutu ve hesaplanan tablolar Power BI içinde oluşturulur. Python 3 ile proje klasöründe aşağıdaki komutu çalıştırabilirsiniz.
+`source/` klasöründe 11 tablonun okunabilir UTF-8 CSV dosyaları bulunur. Tarih boyutu ve hesaplanan tablolar Power BI içinde oluşturulur. Python 3 ile proje klasöründe aşağıdaki komutu çalıştırabilirsiniz.
 
 ~~~sh
 python generate_data.py
