@@ -1,4 +1,4 @@
-# Sağlık analitiği | Power BI portföy projesi
+# Kurum Analitiği | Power BI Demo Proje
 
 **Bu rapordaki tüm iş verileri örnek amaçlı, Python ile sıfırdan üretilmiştir. Gerçek veriler paylaşılmamıştır.** Hastaneler, ödeyiciler, hasta ve protokol anahtarları, faturalar, bütçeler ve tahsilatlar kurgusaldır. Sonuçlar herhangi bir sağlık kuruluşunun performansını temsil etmez.
 
