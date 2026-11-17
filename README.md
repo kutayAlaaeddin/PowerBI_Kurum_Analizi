@@ -4,56 +4,6 @@
 
 **[Canlı raporu Power BI’da aç](https://app.powerbi.com/view?r=eyJrIjoiN2U2NTRhNmQtYTFlYS00M2NiLTg0MWEtZTkwNzFlMWI1ZDU2IiwidCI6ImQ5NjQ2ZTQyLTUzMWQtNDBlNC1hMDQ3LTBkOGU3ZDFhNmNlNCIsImMiOjl9)**
 
-## Veri modeli
-
-![Veri modeli ve tablo ilişkileri](docs/screenshots/01%20semantic-model.png)
-
-## Rapor görünümleri
-
-![Portföye Genel Bakış](docs/screenshots/02%20genel-bakis.png)
-
-<details>
-<summary>Gelirin Kaynakları</summary>
-
-![Gelirin Kaynakları](docs/screenshots/03%20gelirin-kaynaklari.png)
-
-</details>
-
-<details>
-<summary>Başvuru Profili</summary>
-
-![Başvuru Profili](docs/screenshots/04%20basvuru-profili.png)
-
-</details>
-
-<details>
-<summary>Merkez Karşılaştırması</summary>
-
-![Merkez Karşılaştırması](docs/screenshots/05%20merkez-karsilastirmasi.png)
-
-</details>
-
-<details>
-<summary>Ödeyici Karşılaştırması</summary>
-
-![Ödeyici Karşılaştırması](docs/screenshots/06%20odeyici-karsilastirmasi.png)
-
-</details>
-
-<details>
-<summary>Alacak Takibi</summary>
-
-![Alacak Takibi](docs/screenshots/07%20alacak-takibi.png)
-
-</details>
-
-<details>
-<summary>Projeksiyon</summary>
-
-![Projeksiyon](docs/screenshots/08%20projeksiyon.png)
-
-</details>
-
 ## Raporu keşfetme
 
 Raporu tarayıcıda incelemek için yukarıdaki canlı rapor bağlantısını kullanın. Power BI Desktop’ta incelemek için depodaki `Hastane-Kurum-Analizi.pbix` dosyasını indirin ve açın. Örnek veriler dosyaya gömülüdür. Raporu görüntülemek için yenileme veya Python kurulumu gerekmez.
