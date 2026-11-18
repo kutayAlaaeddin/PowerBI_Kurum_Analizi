@@ -16,7 +16,8 @@ Kurum geliri, hizmet geliri ve fatura hareketleri ayrı işlem tablolarında tut
 
 DAX ölçüleri gelir payı, bütçe gerçekleşmesi, tahsilat oranı, birim gelir ve dönemsel değişimleri hesaplar. Hasta ve protokol sayılarında tekil sayım kullanılır. Aylık hasta sayılarının toplamı ile dönem genelindeki tekil hasta sayısı ayrı değerlendirilir.
 
-![Veri modeli ve tablo ilişkileri](https://raw.githubusercontent.com/kutayAlaaeddin/PowerBI_Kurum_Analizi/main/docs/screenshots/01%20semantic-model.png)
+<img width="931" height="707" alt="01 semantic-model" src="https://github.com/user-attachments/assets/cd86b620-5f3c-4885-8340-621dbfb1591e" />
+
 
 ## Rapor görünümleri
 
